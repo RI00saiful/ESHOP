@@ -43,31 +43,6 @@ A full-stack desktop e-commerce application where users can browse products, man
 
 ---
 
-```
-ESHOP/
-├── src/
-│   ├── application/
-│   │   ├── Main.java                   # App entry point
-│   │   ├── Control.java                # Database connection
-│   │   ├── UserController.java         # User actions
-│   │   ├── AdminController.java        # Admin actions
-│   │   ├── CartController.java         # Cart management
-│   │   ├── CheckoutController.java     # Order placement
-│   │   ├── OrderController.java        # Order history
-│   │   ├── SearchController.java       # Product search
-│   │   ├── Login.fxml                  # Login screen
-│   │   ├── Registration.fxml           # Register screen
-│   │   ├── UserInterface.fxml          # Main user screen
-│   │   ├── Admin.fxml                  # Admin screen
-│   │   ├── Cart.fxml                   # Cart screen
-│   │   ├── Checkout.fxml               # Checkout screen
-│   │   └── Orders.fxml                 # Orders screen
-│   └── Resources/                      # Images and icons
-└── bin/                                # Compiled class files
-```
-
----
-
 ## Notes
 - Requires **Java 17** and **JavaFX** to run
 - Requires a **MySQL** database connection configured in `Control.java`
