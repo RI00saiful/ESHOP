@@ -43,8 +43,6 @@ A full-stack desktop e-commerce application where users can browse products, man
 
 ---
 
-## Project Structure
-
 ```
 ESHOP/
 ├── src/
