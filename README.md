@@ -6,8 +6,7 @@ A full-stack desktop e-commerce application where users can browse products, man
 
 ## Demo
 
-[![ESHOP Demo](https://img.youtube.com/vi/1iquZDUaLrs/0.jpg)](https://www.youtube.com/watch?v=1iquZDUaLrs)
-
+[![ESHOP Demo](https://img.youtube.com/vi/nHTfYfxhAsU/0.jpg)](https://youtu.be/nHTfYfxhAsU)
 > Click the thumbnail above to watch the demo video.
 
 ---
