@@ -41,9 +41,3 @@ A full-stack desktop e-commerce application where users can browse products, man
 | Authentication | SHA-256 password hashing |
 | Performance | Multithreading |
 
----
-
-## Notes
-- Requires **Java 17** and **JavaFX** to run
-- Requires a **MySQL** database connection configured in `Control.java`
-- Admin login is separate from the regular user login
